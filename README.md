@@ -1,1 +1,1 @@
-# odd-number
+# to find odd number in certain range
